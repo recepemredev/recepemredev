@@ -119,7 +119,7 @@ Three isolated portals under one codebase, mobile REST API (40+ endpoints), vide
   <a href="https://www.recepemreors.com.tr/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="www.linkedin.com/in/recep-emre-ö-273407282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
