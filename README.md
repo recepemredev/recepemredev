@@ -31,27 +31,29 @@ I build production-grade web systems end-to-end — from database schema to API 
 
 ### 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,cs&theme=dark" />
+</p>
+
+**Frameworks & Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,tailwind,bootstrap,html,css&theme=dark" />
+</p>
+
+**Mobile** (React Native)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=expo&theme=dark" />
+</p>
+
+**Databases & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,nginx,git,githubactions&theme=dark" />
+</p>
+
+**CMS**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 </p>
 
 ---
@@ -121,7 +123,7 @@ Three isolated portals under one codebase, mobile REST API (40+ endpoints), vide
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=recepemredev&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=recepemredev&hide_border=true" />
 </p>
 
 ---
