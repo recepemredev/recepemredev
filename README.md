@@ -41,11 +41,6 @@ I build production-grade web systems end-to-end — from database schema to API 
   <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,tailwind,bootstrap,html,css&theme=dark" />
 </p>
 
-**Mobile** (React Native)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=expo&theme=dark" />
-</p>
-
 **Databases & Infrastructure**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,nginx,git,githubactions&theme=dark" />
@@ -134,7 +129,7 @@ Three isolated portals under one codebase, mobile REST API (40+ endpoints), vide
   <a href="https://www.recepemreors.com.tr/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/recep-emre-ö-273407282" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
